@@ -3,7 +3,7 @@
 Basically recipt print application with JS and HTML5. I used Bootstrap framework for front part. This is just experiment for JS and HTML5 works.
 
 ```
-git clone https://github.com/Python-Programming-Summer-2017/hw3-palindrome-Sinancay
+git clone https://github.com/Sinancay/Recipt-App
 ```
 Writed `Sinancay`  actual Github user name.
 
